@@ -28,12 +28,12 @@ Groups Locker was made for educational purposes, therefor all consequences cause
 ## <a id="setup"></a> 📁 » Setting up Nuker
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.json](https://github.com/CappingTeam/Groupe-Locker/blob/main/config.json) with notepad or some other editor
+2. Open up [config.js](https://github.com/CappingTeam/Groupe-Locker/blob/main/config.js) with notepad or some other editor
 3. Double Click on [start.bat](https://github.com/CappingTeam/Groupe-Locker/blob/main/start.bat)
 
 # <a id="config"></a>⚙ » Config
 
-If you want to change the config, open up [config.json](https://github.com/CappingTeam/Groupe-Locker/blob/main/config.js) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [config.js](https://github.com/CappingTeam/Groupe-Locker/blob/main/config.js) and locate it at the top. There you can configure the following:
 
 ```js
 module.exports = {
