@@ -25,7 +25,7 @@ Groups Locker was made for educational purposes, therefor all consequences cause
 > + More!
 ```
 
-## <a id="setup"></a> 📁 » Setting up Nuker
+## <a id="setup"></a> 📁 » Setting up Groups Locker
 
 1. Install [Nodejs](https://nodejs.org/)
 2. Open up [config.js](https://github.com/CappingTeam/Groupe-Locker/blob/main/config.js) with notepad or some other editor
