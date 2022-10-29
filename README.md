@@ -11,7 +11,7 @@ Groups Locker was made for educational purposes, therefor all consequences cause
 - [☄・Deploys](#deploys)
 - [🔰・Features](#features)
 - [🌌・Discord](https://discord.gg/qXM2j4BmCu)
-- [🎉・Setting up Nuker](#setup)
+- [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 
 ## <a id="deploys"></a>☄ » Deploys
